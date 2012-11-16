@@ -21,8 +21,9 @@ end
 ## Usage
 
 ```haml
-  %span.modernpics
-    d
+%span.modernpics
+  d
+```
 
 ## Contributing
 
